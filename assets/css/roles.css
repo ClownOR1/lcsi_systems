@@ -1,0 +1,38 @@
+/* LCSI Roles Module Styles */
+.lcsi-roles-container {
+    padding: 20px;
+}
+table.lcsi-roles-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+table.lcsi-roles-table th,
+table.lcsi-roles-table td {
+    padding: 8px;
+    border: 1px solid #ddd;
+}
+
+
+/* New Role Form Styles */
+.lcsi-roles-form {
+    margin-top: 40px;
+    background: #fff;
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+.lcsi-roles-form table.form-table th {
+    width: 150px;
+}
+
+/* Styles for actions */
+.lcsi-roles-table td .lcsi-default-role {
+    color: #888;
+    font-style: italic;
+}
+.lcsi-roles-table td a.edit-role {
+    text-decoration: none;
+}
+.lcsi-roles-form .cancel-link {
+    margin-left: 10px;
+    text-decoration: none;
+}

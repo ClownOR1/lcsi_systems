@@ -1,0 +1,143 @@
+/*
+ * LCIS Systems Settings Stylesheet v4.3.1
+ */
+.wrap { padding: 40px; }
+.lcsi-settings-intro { display: flex; margin-bottom: 20px; align-items: center; }
+.lcsi-settings-intro .logo-column { flex: 0 0 100px; margin-right: 20px; }
+.lcsi-settings-intro .logo-column img { width: 100px; height: auto; }
+.lcsi-settings-intro .text-column { flex: 1; }
+.lcsi-settings-overview { display: flex; margin-bottom: 20px; }
+.lcsi-settings-overview .overview-item { flex: 1; padding: 10px; border: 1px solid #ddd; border-radius: 4px; margin-right: 10px; text-align: center; }
+.lcsi-settings-overview .overview-item:last-child { margin-right: 0; }
+.lcsi-settings-overview .status-indicator { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 6px; }
+.lcsi-settings-overview .connected .status-indicator { background-color: #46b450; }
+.lcsi-settings-overview .not-connected .status-indicator { background-color: #dc3232; }
+.nav-tab-wrapper { margin-bottom: 20px; }
+.instructions { margin: 20px 0; padding: 15px; background: #f9f9f9; border-left: 4px solid #0073aa; }
+.instructions h4 { margin-top: 0; }
+.form-table th { width: 200px; }
+
+.lcsi-form-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+.lcsi-form-col {
+    flex: 1 1 45%;
+    min-width: 200px;
+}
+.lcsi-form-col label {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 4px;
+}
+.lcsi-form-col input {
+    width: 100%;
+    padding: 6px;
+    font-size: 14px;
+}
+
+.lcsi-form-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-bottom: 20px;
+    align-items: flex-start;
+}
+.lcsi-form-col {
+    flex: 1 1 45%;
+    min-width: 250px;
+}
+.lcsi-form-col label {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 6px;
+    font-size: 14px;
+}
+.lcsi-form-col input {
+    width: 100%;
+    padding: 8px 10px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+/* Add spacing around tabs and content */
+.nav-tab-wrapper {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.tab-content {
+    padding-top: 20px;
+    margin-bottom: 20px;
+}
+
+/* Certification rows layout */
+.lcsi-cert-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 10px;
+    align-items: center;
+}
+.lcsi-cert-row input,
+.lcsi-cert-row select {
+    flex: 1 1 150px;
+}
+.lcsi-cert-logo {
+    max-height: 40px;
+    margin-left: 10px;
+}
+
+/* Top-right certification logos */
+.lcsi-cert-logos {
+    text-align: right;
+    margin-bottom: 15px;
+}
+.lcsi-cert-logo-top {
+    width: 35px !important;
+    height: 35px !important;
+    object-fit: contain;
+    margin-left: 5px;
+    vertical-align: middle;
+}
+
+/* Existing certifications list in Certifications tab */
+.lcsi-existing-certs {
+    list-style: disc inside;
+    margin-bottom: 20px;
+    padding-left: 20px;
+}
+.lcsi-existing-certs li {
+    margin-bottom: 5px;
+    font-size: 14px;
+}
+
+/* Certifications details table */
+.lcsi-certs-table th, .lcsi-certs-table td {
+    padding: 8px 10px;
+}
+.lcsi-certs-table th {
+    background: #f1f1f1;
+}
+.lcsi-certs-table td a {
+    color: #0073aa;
+    text-decoration: none;
+}
+
+/* Add spacing below the certification builder */
+#lcsi-cert-builder {
+    margin-bottom: 20px;
+}
+
+
+/* Layout for certifications form row */
+.lcsi-cert-form-row {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  display: flex;
+  gap: 0.5em;
+  align-items: flex-end;
+}

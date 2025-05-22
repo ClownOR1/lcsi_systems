@@ -1,0 +1,66 @@
+└── marine_certifications
+    ├── SAMS
+    │   ├── Accredited Marine Surveyor (AMS®)
+    │   │   ├── Abbreviation: AMS
+    │   ├── Surveyor Associate (SA)
+    │   │   ├── Abbreviation: SA
+    │   └── Affiliate Member (AFF)
+    │       ├── Abbreviation: AFF
+    ├── NAMSGlobal
+    │   ├── Certified Marine Surveyor (NAMS-CMS)
+    │   │   ├── Abbreviation: NAMS-CMS
+    │   ├── Associate Marine Surveyor
+    │   │   ├── Abbreviation: NAMS-AMS
+    │   └── Apprentice Marine Surveyor
+    │       ├── Abbreviation: NAMS-Apprentice
+    ├── ACMS
+    │   ├── Certified Marine Surveyor (ACMS)
+    │   │   ├── Abbreviation: ACMS
+    │   ├── Certified Container Inspector
+    │   │   ├── Abbreviation: CCI
+    │   ├── Certified Food Cargo Inspector
+    │   │   ├── Abbreviation: CFCI
+    │   └── Certified Marine Engine Surveyor
+    │       ├── Abbreviation: CMES
+    ├── IIMS
+    │   ├── Diploma in Yacht & Small Craft Surveying
+    │   │   ├── Abbreviation: DipY&SCS
+    │   ├── Diploma in Commercial Ship Surveying
+    │   │   ├── Abbreviation: DipCSS
+    │   ├── Diploma in Marine Corrosion
+    │   │   ├── Abbreviation: DipMC
+    │   ├── Diploma in Marine Warranty Surveying
+    │   │   ├── Abbreviation: DipMWS
+    │   └── Diploma in Marine Accident Investigation
+    │       ├── Abbreviation: DipMAI
+    ├── USSA
+    │   ├── Certified Marine Surveyor (USSA)
+    │   │   ├── Abbreviation: USSA-CMS
+    │   └── Yacht and Small Craft Inspector
+    │       ├── Abbreviation: YSCI
+    ├── ABYC
+    │   ├── Marine Electrical Certification
+    │   │   ├── Abbreviation: ABYC-E
+    │   ├── Marine Systems Certification
+    │   │   ├── Abbreviation: ABYC-S
+    │   ├── Marine Corrosion Certification
+    │   │   ├── Abbreviation: ABYC-C
+    │   ├── Marine Diesel Engines Certification
+    │   │   ├── Abbreviation: ABYC-D
+    │   ├── A/C & Refrigeration Certification
+    │   │   ├── Abbreviation: ABYC-ACR
+    │   ├── Standards Certified Technician
+    │   │   ├── Abbreviation: ABYC-ST
+    │   ├── Composite Boat Builder Certification
+    │   │   ├── Abbreviation: ABYC-CBB
+    │   └── Certified Master Technician
+    │       ├── Abbreviation: ABYC-MT
+    └── Maritime_Training_Academy
+        ├── Diploma in Superyacht Surveying
+        │   ├── Abbreviation: DipSS
+        ├── Diploma in Marine Salvage
+        │   ├── Abbreviation: DipMS
+        ├── Diploma in Yacht & Small Craft Surveying
+        │   ├── Abbreviation: DipY&SCS
+        └── Diploma in Marine Accident Investigation
+            ├── Abbreviation: DipMAI

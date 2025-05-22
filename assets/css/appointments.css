@@ -1,0 +1,18 @@
+/*
+ * LCIS Systems Settings Stylesheet v4.3.1
+ */
+.wrap { padding: 40px; }
+.lcsi-settings-intro { display: flex; margin-bottom: 20px; align-items: center; }
+.lcsi-settings-intro .logo-column { flex: 0 0 100px; margin-right: 20px; }
+.lcsi-settings-intro .logo-column img { width: 100px; height: auto; }
+.lcsi-settings-intro .text-column { flex: 1; }
+.lcsi-settings-overview { display: flex; margin-bottom: 20px; }
+.lcsi-settings-overview .overview-item { flex: 1; padding: 10px; border: 1px solid #ddd; border-radius: 4px; margin-right: 10px; text-align: center; }
+.lcsi-settings-overview .overview-item:last-child { margin-right: 0; }
+.lcsi-settings-overview .status-indicator { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 6px; }
+.lcsi-settings-overview .connected .status-indicator { background-color: #46b450; }
+.lcsi-settings-overview .not-connected .status-indicator { background-color: #dc3232; }
+.nav-tab-wrapper { margin-bottom: 20px; }
+.instructions { margin: 20px 0; padding: 15px; background: #f9f9f9; border-left: 4px solid #0073aa; }
+.instructions h4 { margin-top: 0; }
+.form-table th { width: 200px; }

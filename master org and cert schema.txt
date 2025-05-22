@@ -1,0 +1,151 @@
+# Combined Certification Schema
+
+MarineSurveyAndInspectionOrganizations:
+  SAMS:
+    organizationName: "Society of Accredited Marine Surveyors"
+    certifications:
+      - name: "Accredited Marine Surveyor"
+        abbreviation: "AMS®"
+      - name: "Surveyor Associate"
+        abbreviation: "SA"
+      - name: "Affiliate Member"
+        abbreviation: "AFF"
+
+  NAMSGlobal:
+    organizationName: "National Association of Marine Surveyors"
+    certifications:
+      - name: "Certified Marine Surveyor"
+        abbreviation: "NAMS-CMS"
+      - name: "Associate Marine Surveyor"
+        abbreviation: "NAMS-AMS"
+      - name: "Apprentice Marine Surveyor"
+        abbreviation: "NAMS-Apprentice"
+
+  ACMS:
+    organizationName: "American Council of Marine Surveyors"
+    certifications:
+      - name: "Certified Marine Surveyor"
+        abbreviation: "ACMS"
+      - name: "Certified Container Inspector"
+        abbreviation: "CCI"
+      - name: "Certified Food Cargo Inspector"
+        abbreviation: "CFCI"
+      - name: "Certified Marine Engine Surveyor"
+        abbreviation: "CMES"
+
+  IIMS:
+    organizationName: "International Institute of Marine Surveyors"
+    certifications:
+      - name: "Diploma in Yacht & Small Craft Surveying"
+        abbreviation: "DipY&SCS"
+      - name: "Diploma in Commercial Ship Surveying"
+        abbreviation: "DipCSS"
+      - name: "Diploma in Marine Corrosion"
+        abbreviation: "DipMC"
+      - name: "Diploma in Marine Warranty Surveying"
+        abbreviation: "DipMWS"
+      - name: "Diploma in Marine Accident Investigation"
+        abbreviation: "DipMAI"
+
+  USSA:
+    organizationName: "United States Society of Admirals"
+    certifications:
+      - name: "Certified Marine Surveyor"
+        abbreviation: "USSA-CMS"
+      - name: "Yacht & Small Craft Inspector"
+        abbreviation: "YSCI"
+
+  ABYC:
+    organizationName: "American Boat & Yacht Council"
+    certifications:
+      - name: "Marine Electrical Certification"
+        abbreviation: "ABYC-E"
+      - name: "Marine Systems Certification"
+        abbreviation: "ABYC-S"
+      - name: "Marine Corrosion Certification"
+        abbreviation: "ABYC-C"
+      - name: "Marine Diesel Engines Certification"
+        abbreviation: "ABYC-D"
+      - name: "A/C & Refrigeration Certification"
+        abbreviation: "ABYC-ACR"
+      - name: "Standards Certified Technician"
+        abbreviation: "ABYC-ST"
+      - name: "Composite Boat Builder Certification"
+        abbreviation: "ABYC-CBB"
+      - name: "Certified Master Technician"
+        abbreviation: "ABYC-MT"
+
+  MTA:
+    organizationName: "Maritime Training Academy"
+    certifications:
+      - name: "Diploma in Superyacht Surveying"
+        abbreviation: "DipSS"
+      - name: "Diploma in Marine Salvage"
+        abbreviation: "DipMS"
+      - name: "Diploma in Yacht & Small Craft Surveying"
+        abbreviation: "DipY&SCS"
+      - name: "Diploma in Marine Accident Investigation"
+        abbreviation: "DipMAI"
+
+RecreationalVehicleSurveyInspectionTechnicianOrganizations:
+  NRVIA:
+    organizationName: "National RV Inspectors Association"
+    certifications:
+      - name: "Certified RV Inspector"
+        abbreviation: "NRVIA"
+      - name: "Master Certified RV Inspector"
+        abbreviation: "NRVIA-Master"
+
+  NRVTA:
+    organizationName: "National RV Training Academy"
+    certifications:
+      - name: "Advanced RV Systems Inspector"
+        abbreviation: "ARSI"
+      - name: "Pre-Delivery Inspection Specialist"
+        abbreviation: "PDI-S"
+      - name: "RV Fundamentals"
+        abbreviation: "INSP-200"
+      - name: "Principles of RV Inspection"
+        abbreviation: "INSP-201"
+      - name: "Advanced RV Inspector Training"
+        abbreviation: "INSP-301"
+
+  RVTAA:
+    organizationName: "Recreational Vehicle Technician Association of America"
+    certifications:
+      - name: "Registered RV Service Technician"
+        abbreviation: "RVTAA-R"
+      - name: "Certified RV Service Technician"
+        abbreviation: "RVTAA-C"
+      - name: "Advanced RV Service Technician"
+        abbreviation: "RVTAA-A"
+      - name: "Master Certified RV Service Technician"
+        abbreviation: "RVTAA-M"
+      - name: "Advanced Generator Technician"
+        abbreviation: "AGT"
+      - name: "Solar Power Systems Technician"
+        abbreviation: "SPST"
+
+  RVTI:
+    organizationName: "RV Technical Institute"
+    certifications:
+      - name: "Level 1 RV Technician"
+        abbreviation: "RVTI-1"
+      - name: "Level 2 RV Technician"
+        abbreviation: "RVTI-2"
+      - name: "Level 3 Specialist Technician"
+        abbreviation: "RVTI-3"
+      - name: "Level 4 Master Technician"
+        abbreviation: "RVTI-4"
+
+  RVIA_RVDA:
+    organizationName: "RV Industry Association / RV Dealers Association"
+    certifications:
+      - name: "RV Service Technician Certification"
+        abbreviation: "RVIA-STC"
+      - name: "RV Standards and Compliance Certification"
+        abbreviation: "RVIA-RCMC"
+      - name: "RVDA Master Certified RV Technician"
+        abbreviation: "RVDA-Master"
+      - name: "General RV Service Technician Certification"
+        abbreviation: "Certified RV Technician"
