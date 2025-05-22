@@ -1,7 +1,4 @@
-# LCIS Systems Plugin
 
-## Project Directory Schema
-```
 lcsi_systems
 ├── assets
 │   ├── css
@@ -22,7 +19,3 @@ lcsi_systems
 │       ├── ClientsDashboard
 │       ├── OperatorsDashboard
 │       └── Forms
-```
-
-## Development Rules
-... (unchanged) ...
